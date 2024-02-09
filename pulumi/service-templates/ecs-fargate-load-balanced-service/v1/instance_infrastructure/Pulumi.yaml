@@ -1,3 +1,0 @@
-name: proton-service
-description: Stacks created by AWS Proton for service template "ecs-fargate-load-balanced-service"
-runtime: nodejs

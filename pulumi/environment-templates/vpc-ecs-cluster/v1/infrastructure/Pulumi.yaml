@@ -1,3 +1,0 @@
-name: proton-environment
-description: Stacks created by AWS Proton for environment template "vpc-ecs-cluster"
-runtime: nodejs
